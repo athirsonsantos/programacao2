@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+
+.selecionado{
+    background-color:#c6c8ca ;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+#abas ul{
+    display: inline;
+}
+#abas ul li{
+
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px 10px ;
+    border-radius: 10px 10px 0 0;
+}
+
+.conteudo{
+
+    border: 1px solid black;
+}
+
+.descricao
+{
+    display: none;
+}
